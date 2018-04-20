@@ -13,7 +13,7 @@ The following steps are required to setup the client on a Mac machine. For other
 	pip install virtualenv
 	virtualenv -p python2 DarwinPythonClient
 	source DarwinPythonClient/bin/activate
-	pip install stompy.py
+	pip install stomp.py
 
 ## Update the content
 
